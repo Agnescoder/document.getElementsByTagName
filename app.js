@@ -31,3 +31,6 @@ btn.addEventListener("click", () => {
     })
     fontSize++;
 })
+
+// SAMURAJ UDEMY  Projekt 3: Trening pętli for i metody forEach
+// zadanie 1 - rozwiązanie
